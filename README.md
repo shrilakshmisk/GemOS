@@ -1,6 +1,6 @@
 # GemOS
 
-This project implements enhancements in memory management and adds tracing functionalities to GemOS operating system.
+This project implements enhancements in memory management and adds tracing functionalities to GemOS operating system as a part of CS330 - Operating Systems course offered in 2023-24 odd semester at IITK.
 
 ## Implemented Features
 
